@@ -24,6 +24,7 @@ export const multicall3DeploymentBlockNumbers: { [chainId: number]: number } = {
   421611: 88114, // Arbitrum Rinkeby
   137: 25770160, // Polygon
   80001: 25444704, // Polygon Mumbai
+  1101: 57746, //Polygon zkEVM
   100: 21022491, // Gnosis
   43114: 11907934, // Avalanche
   43113: 7096959, // Avalanche Fuji
