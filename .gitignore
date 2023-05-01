@@ -116,7 +116,7 @@ dist
 .pnp.*
 
 # Compiled code
-lib/
+
 cache/
 .vscode
 .env
